@@ -1,4 +1,4 @@
-source: /forty-jekyll-theme/
+source: forty-jekyll-theme/
 paths:
   uploads: uploads
   dam_uploads: ''
@@ -64,7 +64,7 @@ _select_data:
     style: compressed
 _structures: {}
 _editables: {}
-base_url: /forty-jekyll-theme
+base_url: forty-jekyll-theme
 data_config: {}
 editor:
   default_path:
