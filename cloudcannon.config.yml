@@ -26,6 +26,10 @@ collections_config:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
+_enabled_editors:
+  - content
+  - data
+  - visual
 _inputs:
   categories:
     type: multiselect
@@ -55,4 +59,6 @@ _structures: {}
 _editables: {}
 base_url: /forty-jekyll-theme
 data_config: {}
-timezone: Etc/UTC
+editor:
+  default_path:
+timezone: Asia/Kolkata
