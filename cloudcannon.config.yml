@@ -1,3 +1,4 @@
+source: /forty-jekyll-theme/
 paths:
   uploads: uploads
   dam_uploads: ''
@@ -19,13 +20,19 @@ collections_config:
     disable_add_folder: false
     disable_file_actions: false
   pages:
-    path: ''
+    path: forty-jekyll-theme/
     output: true
     filter: strict
+    description: ''
     icon: notes
+    _editables: {}
+    _inputs: {}
+    _select_data: {}
+    _structures: {}
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
+    schemas: {}
 _enabled_editors:
   - content
   - data
